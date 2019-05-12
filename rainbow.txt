@@ -1,3 +1,5 @@
 The Rainbow
 red
 blue yellow
+pink
+purple
